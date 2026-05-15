@@ -4,7 +4,7 @@ Network scanning and firewall hardening
 
 ## Overview
 This project documents my cybersecurity learning journey including:
-- Linux (Ubuntu, CentOS)
+- Linux (Ubuntu, CentOS and Kali Linux)
 - Networking (Nmap scans)
 - Firewall configuration
 - TryHackMe labs
@@ -15,5 +15,5 @@ This project documents my cybersecurity learning journey including:
 - CentOS
 - Nmap
 
-## Goals
-To build practical cybersecurity skills step by step.
+## Goal
+The goal of this project was to simulate a basic cybersecurity environment for performing network reconnaissance, identifying exposed services and implementing firewall hardening techniques to reduce system exposure.
