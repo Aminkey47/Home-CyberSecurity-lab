@@ -1,4 +1,4 @@
-# Home-CyberSecurity-lab
+# PROJECT NEBULA
 Network scanning and firewall hardening 
 # My Cybersecurity Project
 
